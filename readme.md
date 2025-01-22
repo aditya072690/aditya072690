@@ -45,6 +45,9 @@ I am a passionate developer with experience in web development, VR development, 
   - Basic chat app
   - Technologies: Flutter,Firebase
 
+- **[Flowind](https://github.com/aditya072690/Flowind)**
+  - Basic time management app
+  - Technologies: SwiftUI,Firebase,xcode
 
 ## 📊 GitHub Analytics
 
