@@ -49,6 +49,9 @@ I am a passionate developer with experience in web development, VR development, 
   - Basic time management app
   - Technologies: SwiftUI,Firebase,xcode
 
+## 🌐 Portfolio
+✨ Check out my [personal website](https://aditya072690.github.io/aditya/) to explore my projects and professional journey!
+
 ## 📊 GitHub Analytics
 
 
