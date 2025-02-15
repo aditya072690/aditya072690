@@ -49,6 +49,14 @@ I am a passionate developer with experience in web development, VR development, 
   - Basic time management app
   - Technologies: SwiftUI,Firebase,xcode
 
+- **[Quizzler](https://github.com/aditya072690/Quizzler)**
+  - Basic Quiz and Multiple-choice Quiz app
+  - Technologies: SwiftUI,storyboard,xcode
+
+- **[BMI-Calculator](https://github.com/aditya072690/BMI-Calculator)**
+  - Basic BMI-Calculator
+  - Technologies: Swift,storyboard,xcode
+
 ## 🌐 Portfolio
 ✨ Check out my [personal website](https://aditya072690.github.io/aditya/) to explore my projects and professional journey!
 
