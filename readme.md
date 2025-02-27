@@ -58,7 +58,7 @@ I am a passionate developer with experience in web development, VR development, 
   - Technologies: Swift,storyboard,xcode
 
 ## 🌐 Portfolio
-✨ Check out my [personal website](https://aditya072690.github.io/aditya/) to explore my projects and professional journey!
+✨ Check out my [personal website](https://aditya-portfolio-git-main-aditya072690s-projects.vercel.app) to explore my projects and professional journey!
 
 ## 📊 GitHub Analytics
 
