@@ -57,6 +57,14 @@ I am a passionate developer with experience in web development, VR development, 
   - Basic BMI-Calculator
   - Technologies: Swift,storyboard,xcode
 
+- **[Clima](https://github.com/aditya072690/Clima)**
+  - Clima A weather forecasting application that provides current and forecasted weather conditions, including temperature, humidity, wind speed, and precipitation.
+  - Technologies: Swift,storyboard,xcode,API
+
+- **[Flash-Chat](https://github.com/aditya072690/Flash-Chat)**
+  - Flash Chat A simple yet efficient chat application built with Swift and Firebase. It allows users to connect, send messages, and view real-time updates. The app provides a basic UI for easy communication.
+  - Technologies: Swift,storyboard,xcode,Firebase
+
 ## 🌐 Portfolio
 ✨ Check out my [personal website](https://aditya-portfolio-git-main-aditya072690s-projects.vercel.app) to explore my projects and professional journey!
 
