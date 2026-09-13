@@ -202,7 +202,7 @@ Experienced in building production-grade solutions, asynchronous event pipelines
 ---
 
 ### 🏢 [VizSpace — 3D Virtual Tour Platform](https://vizspace.in)
-- **Live Site:** [vizspace.in](https://vizspace.in) | **Repository:** [aditya072690/vizspace](https://github.com/aditya072690/vizspace)
+- **Live Site:** [vizspace.in](https://vizspace.in)
 - **Description:** Interactive 3D virtual tour and architectural walkthrough web platform for residential complexes and commercial real estate builders.
 - **Key Highlights:**
   - Developed responsive frontend in **Next.js and React.js**, achieving sub-2-second page loads across mobile and desktop.
@@ -294,7 +294,4 @@ Experienced in building production-grade solutions, asynchronous event pipelines
 ## 📫 Connect With Me
 - 💼 **LinkedIn:** [linkedin.com/in/aditya07269](https://www.linkedin.com/in/aditya07269)
 - 📧 **Email:** [chauhanaditya072@gmail.com](mailto:chauhanaditya072@gmail.com)
-- 💻 **GitHub:** [github.com/aditya072690](https://github.com/aditya072690)
-- 📍 **Location:** Vadodara, Gujarat, India
-
 ---
